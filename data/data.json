@@ -53,5 +53,16 @@
         "screen": "15-inch, Full HD",
         "price": "1499",
         "description": "While it may not have the best keyboard in the world, the Samsung Notebook 9 is still one of the best laptops you can buy in 2018. Packed with more horsepower than some MacBook Pros,but at a much lower price, Samsung has crafted a laptop that has just as much substance as it does style. Plus, on top of its killer specs, it’s lightweight and thin, making this one of the most portable 15-inch laptops you can buy today."
+    },
+    {
+        "id": "5",
+        "productName": "Apple MacBook Air 2020",
+        "image": "macbook-air-13.jpg",
+        "cpu": "Intel Core i3, 10th generation",
+        "ram": "8GB",
+        "storage": "256 GB SSD",
+        "screen": "13-inch, Retina Display",
+        "price": "999",
+        "description": "Available in silver, space gray, and gold, the latest MacBook Air features a stunning Retina display with True Tone technology, Touch ID, a backlit Magic Keyboard, and a Force Touch trackpad - all housed in a thin and light iconic wedge design made from 100 percent recycled aluminum.² And with 11-hour battery life, it's a do-it-all notebook that goes all day long."
     }
 ]
